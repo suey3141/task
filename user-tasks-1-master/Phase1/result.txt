@@ -1,0 +1,3 @@
+The property that sold for the highest price in 2022 is:
+Address: 2017 Komo Mai Drive
+Sale Price: $920,000.0

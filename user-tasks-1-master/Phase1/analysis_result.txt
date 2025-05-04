@@ -1,0 +1,6 @@
+Estimated value of a typical home: $853,503.74
+Best time to sell: Month 11 (Average sale price: $1,132,289.00)
+Top 3 home improvements for better ROI:
+- sale_month: Correlation with sale price = 0.18
+- square_footage: Correlation with sale price = 0.10
+- bedrooms: Correlation with sale price = 0.05
